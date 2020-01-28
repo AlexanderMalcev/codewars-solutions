@@ -8,6 +8,6 @@ def creating(name):
         result.append(word.replace(' ','_'))
     return f"{dst}/{digit}{''.join(result)}.py"
 
-f = open(creating('6 kyu Highest Scoring Word'), 'w+')
+f = open(creating('name of a kata'), 'w+')
 f.write('#solution')
 f.close()
