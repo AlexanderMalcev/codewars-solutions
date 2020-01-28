@@ -1,7 +1,7 @@
 #my codewars profile:https://www.codewars.com/users/Shichika%20Yasuri
 
 def creating(name):
-    dst = 'D:/Users/user/Desktop/codewars solutions'
+    dst = 'destination path'
     result = []
     digit = name[0]
     for word in name[2:]:
